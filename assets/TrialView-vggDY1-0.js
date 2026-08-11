@@ -1,0 +1,1 @@
+import{d as e,c as s,a,b as o,z as t,N as c,bd as r,H as _,_ as i}from"./index-DHNaKkLG.js";const n={class:"trial-page"},p={class:"trial-page__main"},l=e({__name:"TrialView",setup(d){return(m,f)=>(t(),s("div",n,[a(c),o("main",p,[a(r,{mode:"page"})]),a(_)]))}}),B=i(l,[["__scopeId","data-v-f07b60ef"]]);export{B as default};
